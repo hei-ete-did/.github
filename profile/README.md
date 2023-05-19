@@ -6,11 +6,7 @@
   <br>
 </h1>
 
-<h1 align="center">
-  <br>
-  **Note:** Please be aware that the "DiD Digital Design" course is no longer part of the current curriculum in the ETE Energy and Environmental Technology orientation of the HEI-Vs Engineering School. However, it is still part of the [Industrial Systems](https://hevs.ch/synd) curriculum. The repositories in this organization remain available for reference and self-study purposes.
-  <br>
-</h1>
+# Note: Please be aware that the "DiD Digital Design" course is no longer part of the current curriculum in the [Energy and Environmental Technology](https://hevs.ch/ete) orientation of the HEI-Vs Engineering School. However, it is still part of the [Industrial Systems](https://hevs.ch/synd) curriculum. The repositories in this organization remain available for reference and self-study purposes.
 
 Welcome to the GitHub organization for the [HEI-Vs Engineering School](https://hevs.ch/ete) in Sion, Switzerland. This organization is dedicated to the course "DiD Digital Design" for the orientation ETE aka [Energy and Environmental Technology](https://hevs.ch/ete).
 
